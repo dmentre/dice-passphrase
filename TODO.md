@@ -1,6 +1,6 @@
 # To Do List
 
-* [ ] High-level specifications
+* [X] High-level specifications
 * [ ] Architecture (including module secrets) & Design
 * [ ] Low-level specification
 * [ ] Word list
