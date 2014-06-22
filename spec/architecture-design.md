@@ -47,7 +47,7 @@ We assume we have a randomness source that gives at random an integer
 * For `/dev/random`, `max_random_per_call = 256`
 * For a dice, `max_random_per_call = 6`
 
-We want to build an integer `random_index` such that we can equally
+We want to build an integer `random_range` such that we can equally
 chose all integers in interval [0, b-a]. We compute it such that:
 
     random_range >= interval_size
