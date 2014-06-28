@@ -1,12 +1,12 @@
 # To Do List
 
 * [X] High-level specifications
-* [ ] Architecture (including module secrets) & Design
-* [ ] Low-level specification
-* [ ] Word list
+* [X] Architecture (including module secrets) & Design
+* [X] Low-level specification
+* [ ] Word lists
 * [ ] Code & Contracts
 * [ ] Proofs
 * [ ] Tests
-* [ ] Traceability
+* [ ] Traceability (including traceability matrix)
 * [ ] Security case
 * [ ] Review
