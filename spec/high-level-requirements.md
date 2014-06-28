@@ -52,5 +52,5 @@ mode or dice rolls result entered by user in manual mode.
 REQ-SEC-3: The program shall not be able to produce a Run Time Error
 (integer overflow, out-of-bound array access, division by zero, ...).
 
-REQ-SEC-4: The memory used by the program should be cleaned-up before
-program exit.
+REQ-SEC-4: The memory used by the program should be cleaned-up onced no
+longer needed by the program.
