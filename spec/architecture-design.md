@@ -5,11 +5,13 @@
 The program is made of following modules. For each module, we give its
 secrets.
 
+* Bounded_String_Instance: knows to handle Bounded_String of a given
+  size
 * Random: knows how to generate a random number
 * Cmd_Line: knows how to parse command-line arguments and prints help
 * Words: knows the lists of words
 * Passphrase: knows how to generate a passphrase
-* Main: the main program, knows how to call other modules
+* Dice_Passphrase: the main program, knows how to call other modules
 
 ## Design
 
