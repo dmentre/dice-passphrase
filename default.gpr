@@ -9,7 +9,6 @@ project Default is
    end Prove;
 
    package Builder is
-      for Global_Configuration_Pragmas use "global_pragma.adc";
       for Executable ("dice_passphrase.adb") use "dice-passphrase";
    end Builder;
 
